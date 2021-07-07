@@ -7,6 +7,6 @@ Expansion Board Footprints
 ------------------------------
 
 This is a KiCad module containing the footprints for components
-used in the [Raspberry Pi B+ Hat template](https://github.com/xesscorp/RPi_Hat_Template).
+used in the [Raspberry Pi B+ Hat template](https://github.com/devbisme/RPi_Hat_Template).
 
-(c)2015 XESS Corp.
+(c)2015-2021 Dave Vandenbout.
